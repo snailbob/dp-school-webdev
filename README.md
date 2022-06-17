@@ -41,11 +41,25 @@
 - How to embed other sripts into your pages
 
 
+# HTML
+![image](https://user-images.githubusercontent.com/6520516/174203658-805dd459-0dbd-497c-ae1b-0475c362db4e.png)
+
+![image](https://user-images.githubusercontent.com/6520516/174205215-93422e65-d9c1-4db4-bbb5-557dac44b3c8.png)
+
+# CSS
+![image](https://user-images.githubusercontent.com/6520516/174205607-baf1bcfe-9a89-4801-81f4-1dd473f7830c.png)
+
+![image](https://user-images.githubusercontent.com/6520516/174205635-4962860d-25c0-4896-8073-31ffb7db6958.png)
+
+![image](https://user-images.githubusercontent.com/6520516/174205660-6583867b-3f80-49be-91a5-c86c67674923.png)
+
+
 ## References
 - https://devdocs.io/
 - https://developer.mozilla.org/en-US/docs/Web/HTML
-- 
+- https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
 ## Resources
 - https://crop-circle.imageonline.co/
 - https://unicode-table.com/
-- 
+- https://web.archive.org/
+- https://cs.dartmouth.edu/~thc/
