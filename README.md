@@ -13,6 +13,8 @@
 ## Web dev roadmap
  - https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020
 
+## How the internet works
+![image](https://user-images.githubusercontent.com/6520516/174313878-39fc2d07-4574-489e-bda6-dba484a06e1c.png)
 
 ## Install and Configure a Code Editor
  - Instal code editor, install helpful packages & plugins
@@ -63,3 +65,4 @@
 - https://unicode-table.com/
 - https://web.archive.org/
 - https://cs.dartmouth.edu/~thc/
+- https://www-cs-faculty.stanford.edu/~knuth/
