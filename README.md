@@ -42,7 +42,7 @@
 
 
 # HTML
-![image](https://user-images.githubusercontent.com/6520516/174203658-805dd459-0dbd-497c-ae1b-0475c362db4e.png)
+![image](https://user-images.githubusercontent.com/6520516/174206195-233c10b7-f9e3-4beb-8b8b-609cb5b80978.png)
 
 ![image](https://user-images.githubusercontent.com/6520516/174205215-93422e65-d9c1-4db4-bbb5-557dac44b3c8.png)
 
