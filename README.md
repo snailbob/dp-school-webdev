@@ -36,7 +36,7 @@
  - Learn to build entire websites from just a design/mockup
 
 ## JavaScript Fundamentals
-- Programming basics: wribles, functions, flow control (conditionals, loops)
+- Programming basics: varriables, functions, flow control (conditionals, loops)
 - Querying selecting working with DOM (HTML) elements
 - Event listeners and doing things in as users interact with your webpage
 - XHR requests to load data into your app
