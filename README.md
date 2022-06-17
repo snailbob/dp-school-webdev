@@ -64,5 +64,8 @@
 - https://crop-circle.imageonline.co/
 - https://unicode-table.com/
 - https://web.archive.org/
+
+## Examples
 - https://cs.dartmouth.edu/~thc/
 - https://www-cs-faculty.stanford.edu/~knuth/
+- https://zephireis.github.io/CV-Modern-Style/
