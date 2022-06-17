@@ -38,6 +38,14 @@
 - Querying selecting working with DOM (HTML) elements
 - Event listeners and doing things in as users interact with your webpage
 - XHR requests to load data into your app
-- How to embed other sripes into your pages
+- How to embed other sripts into your pages
 
 
+## References
+- https://devdocs.io/
+- https://developer.mozilla.org/en-US/docs/Web/HTML
+- 
+## Resources
+- https://crop-circle.imageonline.co/
+- https://unicode-table.com/
+- 
