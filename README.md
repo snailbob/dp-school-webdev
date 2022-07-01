@@ -54,6 +54,10 @@
 - OOP: Polymorphism
 - Arrow Functions
 
+![image](https://user-images.githubusercontent.com/6520516/176833436-ad746d25-1f96-428a-9e3e-eed460d353d7.png)
+
+![image](https://user-images.githubusercontent.com/6520516/176833632-6a390e7a-17a8-41ac-9214-26163c77e881.png)
+
 # HTML
 ![image](https://user-images.githubusercontent.com/6520516/174206195-233c10b7-f9e3-4beb-8b8b-609cb5b80978.png)
 
