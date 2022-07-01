@@ -36,12 +36,23 @@
  - Learn to build entire websites from just a design/mockup
 
 ## JavaScript Fundamentals
-- Programming basics: varriables, functions, flow control (conditionals, loops)
-- Querying selecting working with DOM (HTML) elements
-- Event listeners and doing things in as users interact with your webpage
-- XHR requests to load data into your app
-- How to embed other sripts into your pages
+- What is a Javascript
+- Inserting Inline vs External JS File
+- JS plugins VSCode
+- Variables: let, const & var
+- Data Types
+- Math Operators
+- Arrays (single and multi dimensional)
+- Loops & Conditions (Include looping on arrays)
 
+
+## JavaScript Fundamentals LESSON 2
+- Classes and Objects
+- OOP: Abstraction
+- OOP: Encapsulation
+- OOP: Inheritance
+- OOP: Polymorphism
+- Arrow Functions
 
 # HTML
 ![image](https://user-images.githubusercontent.com/6520516/174206195-233c10b7-f9e3-4beb-8b8b-609cb5b80978.png)
