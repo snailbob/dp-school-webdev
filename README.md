@@ -59,6 +59,18 @@
 ![image](https://user-images.githubusercontent.com/6520516/176833632-6a390e7a-17a8-41ac-9214-26163c77e881.png)
 
 ## JavaScript Fundamentals LESSON 3
+- What is a DOM?
+- Accessing the DOM
+- Select Element by ID
+- Select Element by Tag Name
+- Select Element by Class Name
+- Get and Set Content with textContent and innerHTML
+- Change Element Attributes
+- Set Inline Styles with the style Property
+- Create New DOM Elements
+- Insert HTML at Specified Positions
+- What is an event?
+- Listening for Events
 ![image](https://user-images.githubusercontent.com/6520516/179149157-a61c154c-8ba1-4424-9214-a506ead5d2de.png)
 
 # HTML
