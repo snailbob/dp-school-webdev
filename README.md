@@ -58,6 +58,9 @@
 
 ![image](https://user-images.githubusercontent.com/6520516/176833632-6a390e7a-17a8-41ac-9214-26163c77e881.png)
 
+## JavaScript Fundamentals LESSON 3
+![image](https://user-images.githubusercontent.com/6520516/179149157-a61c154c-8ba1-4424-9214-a506ead5d2de.png)
+
 # HTML
 ![image](https://user-images.githubusercontent.com/6520516/174206195-233c10b7-f9e3-4beb-8b8b-609cb5b80978.png)
 
