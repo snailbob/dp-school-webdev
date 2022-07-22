@@ -73,6 +73,25 @@
 - Listening for Events
 ![image](https://user-images.githubusercontent.com/6520516/179149157-a61c154c-8ba1-4424-9214-a506ead5d2de.png)
 
+
+## JavaScript Fundamentals LESSON 4
+- Introduction to Asynchronous Javascript
+- Understanding Synchronous and Asynchronous Code
+- Async Programming and Callback Functions
+- Implement a Callback
+- What is a Promise?
+- Create a Promise
+- From Callbacks to Promises
+- Handle Multiple Promises with Promise.all
+- The finally() function
+- Using Fetch
+- What is Async/Await?
+- Convert Promise Handling to Async/Await
+- Error Handling with try...catch
+
+![Screenshot_246](https://user-images.githubusercontent.com/6520516/180354028-89ff9dd9-64ca-4ee0-80dc-617865e95b67.png)
+![Screenshot_244](https://user-images.githubusercontent.com/6520516/180354063-2a1698ab-aef9-4ac2-b871-6ed2e5b67d87.png)
+
 # HTML
 ![image](https://user-images.githubusercontent.com/6520516/174206195-233c10b7-f9e3-4beb-8b8b-609cb5b80978.png)
 
