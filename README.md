@@ -92,6 +92,22 @@
 ![Screenshot_246](https://user-images.githubusercontent.com/6520516/180354028-89ff9dd9-64ca-4ee0-80dc-617865e95b67.png)
 ![Screenshot_244](https://user-images.githubusercontent.com/6520516/180354063-2a1698ab-aef9-4ac2-b871-6ed2e5b67d87.png)
 
+## Basics of  Git LESSON 7
+- Cloning a repository
+- Fetch vs Pull
+- What is a branch?
+- Branch naming conventions
+- Creating New Branch
+- Making changes on the code
+- Publishing the branch
+- What is a pull request?
+- Making a pull request
+- Approving and merging the code to master branch
+- Exploring the repository
+
+![image](https://user-images.githubusercontent.com/6520516/183025433-125eba7e-242d-4a4c-bffa-3638b62a1a4e.png)
+
+
 # HTML
 ![image](https://user-images.githubusercontent.com/6520516/174206195-233c10b7-f9e3-4beb-8b8b-609cb5b80978.png)
 
