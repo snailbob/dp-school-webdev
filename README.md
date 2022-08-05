@@ -104,9 +104,11 @@
 - Making a pull request
 - Approving and merging the code to master branch
 - Exploring the repository
-
+![image](https://user-images.githubusercontent.com/6520516/183032597-1b657ab8-abed-496d-816b-c94f02d7d2b3.png)
 ![image](https://user-images.githubusercontent.com/6520516/183025433-125eba7e-242d-4a4c-bffa-3638b62a1a4e.png)
-
+![image](https://user-images.githubusercontent.com/6520516/183029037-1ca1817e-bccf-4421-87e9-b3786f35bc3f.png)
+![image](https://user-images.githubusercontent.com/6520516/183028965-8b789498-def7-40a5-86d8-f74390911992.png)
+![image](https://user-images.githubusercontent.com/6520516/183029621-2eefaa06-c39b-4c7b-9b57-deb5e82340d4.png)
 
 # HTML
 ![image](https://user-images.githubusercontent.com/6520516/174206195-233c10b7-f9e3-4beb-8b8b-609cb5b80978.png)
